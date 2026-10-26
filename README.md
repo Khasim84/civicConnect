@@ -17,3 +17,19 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+
+## Run locally
+
+```sh
+flutter pub get
+flutter run -d chrome
+```
+
+## Deploy to GitHub Pages
+
+The GitHub Actions workflow builds and deploys the web app whenever changes are pushed to `main`. The repository's Pages settings should use **GitHub Actions** as the build and deployment source.
+
+After a successful workflow run, the app is available at:
+
+https://khasim84.github.io/civicConnect/
