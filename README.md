@@ -1,22 +1,19 @@
-# CivicConnect – Citizen Grievance App
+# citizen_grievance_app
 
-## Objective
-CivicConnect helps citizens register and manage complaints about civic issues.
+A new Flutter project created with FlutLab - https://flutlab.io
 
-## Features
-- Register complaints with details.
-- View complaint details using route arguments.
-- Search and filter complaints.
-- Update complaint status.
-- Save complaint data locally.
+## Getting Started
 
-## SDG Relevance
-This project supports **SDG 11: Sustainable Cities and Communities** by helping citizens report civic issues and track their resolution, contributing to better urban services.
+A few resources to get you started if this is your first Flutter project:
 
-## Technologies Used
-- Flutter
-- Dart
-- SharedPreferences
+- https://flutter.dev/docs/get-started/codelab
+- https://flutter.dev/docs/cookbook
 
-## Source Code
-GitHub: https://github.com/Khasim84/civicConnect
+For help getting started with Flutter, view our
+https://flutter.dev/docs, which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+## Getting Started: FlutLab - Flutter Online IDE
+
+- How to use FlutLab? Please, view our https://flutlab.io/docs
+- Join the discussion and conversation on https://flutlab.io/residents
